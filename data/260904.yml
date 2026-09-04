@@ -4,10 +4,10 @@ about:
     A Matrix client for Vim addicts
   license: Apache-2.0
   homepage: https://iamb.chat
-  head: fc1c164
+  head: 9924595
   archived: false
   latestVersion: v0.0.11
-  collectedAt: 2026-09-04T19:34:14Z
+  collectedAt: 2026-09-04T20:57:35Z
 timeline:
   created: 2021-08-25
   lastCommit: 2026-09-04
@@ -18,69 +18,107 @@ popularity:
   fork: 107
   release: 5
   contributor: 65
-  pullRequest: 300
+  pullRequest: 301
   issue: 371
 language:
-  Rust: 776496
+  Rust: 783193
   Nix: 4193
   Shell: 10
-totalBytes: 780699
+totalBytes: 787396
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 28
+    mergedPR: 29
     openPR: 7
     closedIssue: 2
     openIssue: 2
-    commit: 38
+    commit: 39
   last60d:
     since: 2026-07-06
     release: 0
-    mergedPR: 32
+    mergedPR: 33
     openPR: 7
     closedIssue: 2
     openIssue: 3
-    commit: 63
+    commit: 64
   last90d:
     since: 2026-06-06
     release: 0
-    mergedPR: 34
+    mergedPR: 35
     openPR: 7
     closedIssue: 2
     openIssue: 5
-    commit: 63
+    commit: 64
   last180d:
     since: 2026-03-08
     release: 0
-    mergedPR: 49
+    mergedPR: 50
     openPR: 10
     closedIssue: 7
     openIssue: 15
-    commit: 68
+    commit: 69
   last360d:
     since: 2025-09-09
     release: 1
-    mergedPR: 74
+    mergedPR: 75
     openPR: 18
     closedIssue: 24
     openIssue: 39
-    commit: 87
+    commit: 88
   last720d:
     since: 2024-09-14
     release: 1
-    mergedPR: 135
+    mergedPR: 136
     openPR: 20
     closedIssue: 60
     openIssue: 84
-    commit: 144
+    commit: 145
 total:
   release: 5
-  mergedPR: 252
+  mergedPR: 253
   openPR: 20
   closedIssue: 232
   openIssue: 139
-  commit: 334
+  commit: 335
 ---
+path: /home/runner/.x-repo/github.com/ulyssa/iamb
+collectedAt: 2026-09-04T20:57:36Z
+loc:
+  Rust:
+    code: 18635
+    comments: 451
+    blanks: 3289
+    files: 24
+  Toml:
+    code: 196
+    comments: 10
+    blanks: 32
+    files: 3
+  Svg:
+    code: 126
+    comments: 1
+    blanks: 1
+    files: 1
+  Nix:
+    code: 60
+    comments: 68
+    blanks: 12
+    files: 1
+  Xml:
+    code: 43
+    comments: 0
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 213
+    blanks: 96
+    files: 4
+total:
+  code: 19065
+  comments: 1271
+  blanks: 3481
+  files: 34
 ---
 
