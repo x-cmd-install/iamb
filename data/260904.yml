@@ -1,0 +1,58 @@
+about:
+  description: A Matrix client for Vim addicts
+  license: Apache-2.0
+  homepage: https://iamb.chat
+  head: b7fe340
+  archived: false
+  latestVersion: v0.0.11
+  collectedAt: 2026-09-04T04:30:58Z
+timeline:
+  created: 2021-08-25
+  lastCommit: 2026-09-04
+  lastRelease: 2026-01-20
+popularity:
+  star: 1274
+  watcher: 9
+  fork: 107
+  release: 5
+  contributor: 65
+  pullRequest: 49
+  issue: 371
+language:
+  Rust: 756557
+  Nix: 4193
+  Shell: 10
+totalLine: 760760
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 27
+    openPR: 7
+    closedIssue: 2
+    openIssue: 2
+    commit: 36
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 33
+    openPR: 7
+    closedIssue: 2
+    openIssue: 5
+    commit: 61
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 48
+    openPR: 10
+    closedIssue: 7
+    openIssue: 15
+    commit: 66
+  last360d:
+    since: 2025-09-09
+    release: 1
+    mergedPR: 72
+    openPR: 19
+    closedIssue: 23
+    openIssue: 40
+    commit: 85
