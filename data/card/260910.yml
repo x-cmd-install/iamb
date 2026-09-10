@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.11"
   latestRelease: "v0.0.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:26:18Z
+  collectedAt: 2026-09-10T16:01:47Z
 timeline:
   created: 2021-08-25
   lastCommit: 2026-09-08
@@ -21,7 +21,7 @@ popularity:
   release: 5
   contributor: 66
   pullRequest: 307
-  issue: 373
+  issue: 371
 language:
   Rust: 798565
   Nix: 4193
@@ -57,7 +57,7 @@ recent:
     release: 0
     mergedPR: 53
     openPR: 12
-    closedIssue: 8
+    closedIssue: 7
     openIssue: 16
     commit: 73
   last360d:
@@ -65,27 +65,27 @@ recent:
     release: 1
     mergedPR: 77
     openPR: 18
-    closedIssue: 27
-    openIssue: 36
+    closedIssue: 26
+    openIssue: 35
     commit: 90
   last720d:
     since: 2024-09-20
     release: 1
     mergedPR: 140
     openPR: 22
-    closedIssue: 65
-    openIssue: 81
+    closedIssue: 64
+    openIssue: 80
     commit: 147
 total:
   release: 5
   mergedPR: 257
   openPR: 22
-  closedIssue: 238
-  openIssue: 135
+  closedIssue: 237
+  openIssue: 134
   commit: 339
 ---
 path: /home/runner/.x-repo/github.com/ulyssa/iamb
-collectedAt: 2026-09-10T04:26:19Z
+collectedAt: 2026-09-10T16:01:49Z
 loc:
   Rust:
     code: 18963
