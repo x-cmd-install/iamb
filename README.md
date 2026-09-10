@@ -23,15 +23,28 @@ x install iamb
 - **Latest**: `v0.0.11` (2026-01-20)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 9
-- **Published**: 2026-01-20T01:00:42Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [iamb-aarch64-apple-darwin.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-apple-darwin.tgz) | 24.2 MiB | `native/darwin/arm64` |
+| [iamb-aarch64-unknown-linux-gnu.deb](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.deb) | 16.3 MiB | `native/linux/arm64/glibc` |
+| [iamb-aarch64-unknown-linux-gnu.rpm](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.rpm) | 18.9 MiB | `native/linux/arm64/glibc` |
+| [iamb-aarch64-unknown-linux-gnu.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.tgz) | 27.2 MiB | `native/linux/arm64/glibc` |
+| [iamb-x86_64-apple-darwin.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-apple-darwin.tgz) | 25.4 MiB | `native/darwin/x64` |
+| [iamb-x86_64-pc-windows-msvc.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-pc-windows-msvc.zip) | 23.1 MiB | `native/win/x64` |
+| [iamb-x86_64-unknown-linux-musl.deb](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.deb) | 18.3 MiB | `native/linux/x64/musl` |
+| [iamb-x86_64-unknown-linux-musl.rpm](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.rpm) | 19.6 MiB | `native/linux/x64/musl` |
+| [iamb-x86_64-unknown-linux-musl.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.tgz) | 28.3 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 1,276 · **Forks**: 108 · **Open issues**: 373 · **Contributors**: 66
+- **Stars**: 1,276 · **Forks**: 108 · **Open issues**: 371 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 257 · **Open PRs**: 22 · **Closed issues**: 238 · **Open issues**: 135 · **Commits**: 339
+- **Releases**: 5 · **Merged PRs**: 257 · **Open PRs**: 22 · **Closed issues**: 237 · **Open issues**: 134 · **Commits**: 339
 
 ## Recent activity
 
@@ -39,7 +52,7 @@ x install iamb
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 30 | 11 | 1 | 4 | 42 |
 | 90d | 2026-06-12 | 0 | 36 | 11 | 2 | 6 | 68 |
-| 360d | 2025-09-15 | 1 | 77 | 18 | 27 | 36 | 90 |
+| 360d | 2025-09-15 | 1 | 77 | 18 | 26 | 35 | 90 |
 
 ## Code size
 
@@ -58,8 +71,8 @@ Total: **19,389** lines of code across **32** files in the top 5 languages.
 Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `iamb` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/iamb.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/iamb.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:01:55Z._

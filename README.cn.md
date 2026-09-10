@@ -4,7 +4,7 @@
 
 A Matrix client for Vim addicts
 
-![iamb](https://repo.x-cmd.io/iamb.svg)
+![iamb](https://repo.x-cmd.io/iamb.svg?lang=zh)
 
 ## 安装
 
@@ -23,15 +23,28 @@ x install iamb
 - **最新版本**: `v0.0.11` (2026-01-20)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-01-20T01:00:42Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [iamb-aarch64-apple-darwin.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-apple-darwin.tgz) | 24.2 MiB | `native/darwin/arm64` |
+| [iamb-aarch64-unknown-linux-gnu.deb](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.deb) | 16.3 MiB | `native/linux/arm64/glibc` |
+| [iamb-aarch64-unknown-linux-gnu.rpm](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.rpm) | 18.9 MiB | `native/linux/arm64/glibc` |
+| [iamb-aarch64-unknown-linux-gnu.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.tgz) | 27.2 MiB | `native/linux/arm64/glibc` |
+| [iamb-x86_64-apple-darwin.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-apple-darwin.tgz) | 25.4 MiB | `native/darwin/x64` |
+| [iamb-x86_64-pc-windows-msvc.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-pc-windows-msvc.zip) | 23.1 MiB | `native/win/x64` |
+| [iamb-x86_64-unknown-linux-musl.deb](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.deb) | 18.3 MiB | `native/linux/x64/musl` |
+| [iamb-x86_64-unknown-linux-musl.rpm](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.rpm) | 19.6 MiB | `native/linux/x64/musl` |
+| [iamb-x86_64-unknown-linux-musl.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.tgz) | 28.3 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 1,276 · **Fork**: 108 · **开放 issue**: 373 · **贡献者**: 66
+- **Star**: 1,276 · **Fork**: 108 · **开放 issue**: 371 · **贡献者**: 66
 
 ## 累计统计
 
-- **发布数**: 5 · **已合并 PR**: 257 · **开放 PR**: 22 · **已关闭 issue**: 238 · **开放 issue**: 135 · **提交数**: 339
+- **发布数**: 5 · **已合并 PR**: 257 · **开放 PR**: 22 · **已关闭 issue**: 237 · **开放 issue**: 134 · **提交数**: 339
 
 ## 最近活动
 
@@ -39,7 +52,7 @@ x install iamb
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 30 | 11 | 1 | 4 | 42 |
 | 90d | 2026-06-12 | 0 | 36 | 11 | 2 | 6 | 68 |
-| 360d | 2025-09-15 | 1 | 77 | 18 | 27 | 36 | 90 |
+| 360d | 2025-09-15 | 1 | 77 | 18 | 26 | 35 | 90 |
 
 ## 代码规模
 
@@ -62,4 +75,4 @@ iamb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:26:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:01:55Z._
