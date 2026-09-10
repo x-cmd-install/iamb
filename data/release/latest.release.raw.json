@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 19801520,
       "digest": "sha256:02b9c4f5c4111c0c13ab720284c259587e9798d8ebc342dd36683207d94917aa",
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2026-01-20T03:01:10Z",
       "updated_at": "2026-01-20T03:01:11Z",
       "browser_download_url": "https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19153348,
       "digest": "sha256:528b15e86bd755351eb5383fa2d004fe98ba4803d107726d6817fb1e8371e0e8",
-      "download_count": 211,
+      "download_count": 212,
       "created_at": "2026-01-20T03:01:11Z",
       "updated_at": "2026-01-20T03:01:12Z",
       "browser_download_url": "https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 20519285,
       "digest": "sha256:cead69c0c55c2ecf0ff88fb0039b4a023be5aab01c472a3bb61b03927036121b",
-      "download_count": 83,
+      "download_count": 84,
       "created_at": "2026-01-20T03:01:12Z",
       "updated_at": "2026-01-20T03:01:14Z",
       "browser_download_url": "https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 29627564,
       "digest": "sha256:594ed8abc3e314c0f3e1b0f513800ab649e0e1ae03d0d89248d1a7b9ac7dc60d",
-      "download_count": 994,
+      "download_count": 999,
       "created_at": "2026-01-20T03:15:44Z",
       "updated_at": "2026-01-20T03:15:47Z",
       "browser_download_url": "https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.tgz"
