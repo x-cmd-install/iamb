@@ -1,31 +1,3 @@
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: iamb
-  binnames:
-    - iamb
-    - iamb-debuginfo
-    - iamb-debugsource
-  visiblename: iamb
-  version: 0.0.10
-  origversion: 0.0.10-2.8
-  status: outdated
-  summary: A Matrix client for Vim addicts
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: aur
-  srcname: iamb-bin
-  binname: iamb-bin
-  visiblename: iamb-bin
-  version: 0.0.11
-  origversion: 0.0.11-3
-  status: newest
-  summary: A Matrix client for Vim addicts
-  maintainers:
-    - loacker@aur
-  licenses:
-    - Apache-2.0
 - repo: pkgsrc_2026_1
   srcname: chat/iamb
   binname: iamb
@@ -242,6 +214,18 @@
   summary: A Matrix client for Vim addicts
   maintainers:
     - orhun@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: iamb-bin
+  binname: iamb-bin
+  visiblename: iamb-bin
+  version: 0.0.11
+  origversion: 0.0.11-3
+  status: newest
+  summary: A Matrix client for Vim addicts
+  maintainers:
+    - loacker@aur
   licenses:
     - Apache-2.0
 - repo: aur
@@ -552,6 +536,22 @@
     - ports@openbsd.org
   categories:
     - net
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: iamb
+  binnames:
+    - iamb
+    - iamb-debuginfo
+    - iamb-debugsource
+  visiblename: iamb
+  version: 0.0.10
+  origversion: 0.0.10-2.8
+  status: outdated
+  summary: A Matrix client for Vim addicts
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
 - repo: pkgsrc_current
   srcname: chat/iamb
   binname: iamb
