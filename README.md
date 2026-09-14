@@ -14,11 +14,11 @@ x install iamb
 
 ## Code insight
 
-Total: **19,160** lines of code across **33** files in the top 5 languages.
+Total: **19,651** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 18,733 | 472 | 3,239 | 27 |
+| Rust | 19,224 | 474 | 3,274 | 27 |
 | Toml | 198 | 10 | 32 | 3 |
 | Svg | 126 | 1 | 1 | 1 |
 | Nix | 60 | 68 | 12 | 1 |
@@ -33,27 +33,27 @@ Total: **19,160** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.11` (2026-01-20)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-14
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,278 · **Forks**: 107 · **Open issues**: 373 · **Contributors**: 68
+- **Stars**: 1,279 · **Forks**: 109 · **Open issues**: 374 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 271 · **Open PRs**: 11 · **Closed issues**: 257 · **Open issues**: 116 · **Commits**: 353
+- **Releases**: 5 · **Merged PRs**: 274 · **Open PRs**: 12 · **Closed issues**: 261 · **Open issues**: 113 · **Commits**: 356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 43 | 4 | 1 | 5 | 40 |
-| last60d | 2026-07-15 | 0 | 48 | 4 | 2 | 7 | 82 |
-| 90d | 2026-06-15 | 0 | 49 | 4 | 2 | 8 | 82 |
-| last180d | 2026-03-17 | 0 | 67 | 4 | 7 | 15 | 87 |
-| 360d | 2025-09-18 | 1 | 88 | 7 | 30 | 33 | 104 |
-| last720d | 2024-09-23 | 1 | 154 | 11 | 76 | 67 | 161 |
+| 30d | 2026-08-15 | 0 | 41 | 6 | 1 | 6 | 0 |
+| last60d | 2026-07-16 | 0 | 50 | 6 | 2 | 7 | 0 |
+| 90d | 2026-06-16 | 0 | 51 | 6 | 2 | 8 | 0 |
+| last180d | 2026-03-18 | 0 | 69 | 6 | 7 | 16 | 0 |
+| 360d | 2025-09-19 | 1 | 90 | 8 | 30 | 34 | 0 |
+| last720d | 2024-09-24 | 1 | 157 | 12 | 79 | 64 | 164 |
 
 ## Release assets
 
@@ -69,18 +69,6 @@ Total: **19,160** lines of code across **33** files in the top 5 languages.
 | [iamb-x86_64-unknown-linux-musl.rpm](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.rpm) | 19.6 MiB | `native/linux/x64/musl` |
 | [iamb-x86_64-unknown-linux-musl.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.tgz) | 28.3 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **41** distros on [repology.org](https://repology.org/project/iamb). **18** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.0.11` | ✅ latest |
-| Nix unstable | `0.0.11` | ✅ latest |
-| Void | `0.0.11` | ✅ latest |
-| Alpine edge | `0.0.11` | ✅ latest |
-| openSUSE Tumbleweed | `0.0.10` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `iamb` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +78,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:37:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:43:41Z._
