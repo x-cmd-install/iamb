@@ -14,11 +14,11 @@ x install iamb
 
 ## Code insight
 
-Total: **19,651** lines of code across **33** files in the top 5 languages.
+Total: **19,652** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 19,224 | 474 | 3,274 | 27 |
+| Rust | 19,225 | 474 | 3,274 | 27 |
 | Toml | 198 | 10 | 32 | 3 |
 | Svg | 126 | 1 | 1 | 1 |
 | Nix | 60 | 68 | 12 | 1 |
@@ -38,22 +38,22 @@ Total: **19,651** lines of code across **33** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,279 · **Forks**: 109 · **Open issues**: 374 · **Contributors**: 68
+- **Stars**: 1,279 · **Forks**: 110 · **Open issues**: 374 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 274 · **Open PRs**: 12 · **Closed issues**: 261 · **Open issues**: 113 · **Commits**: 356
+- **Releases**: 5 · **Merged PRs**: 275 · **Open PRs**: 14 · **Closed issues**: 261 · **Open issues**: 113 · **Commits**: 357
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 41 | 6 | 1 | 6 | 0 |
-| last60d | 2026-07-16 | 0 | 50 | 6 | 2 | 7 | 0 |
-| 90d | 2026-06-16 | 0 | 51 | 6 | 2 | 8 | 0 |
-| last180d | 2026-03-18 | 0 | 69 | 6 | 7 | 16 | 0 |
-| 360d | 2025-09-19 | 1 | 90 | 8 | 30 | 34 | 0 |
-| last720d | 2024-09-24 | 1 | 157 | 12 | 79 | 64 | 164 |
+| 30d | 2026-08-16 | 0 | 39 | 8 | 1 | 6 | 44 |
+| last60d | 2026-07-17 | 0 | 50 | 8 | 2 | 7 | 86 |
+| 90d | 2026-06-17 | 0 | 52 | 8 | 2 | 8 | 86 |
+| last180d | 2026-03-19 | 0 | 69 | 8 | 7 | 16 | 91 |
+| 360d | 2025-09-20 | 1 | 90 | 10 | 29 | 34 | 108 |
+| last720d | 2024-09-25 | 1 | 158 | 14 | 78 | 64 | 165 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:43:41Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:44:08Z._
