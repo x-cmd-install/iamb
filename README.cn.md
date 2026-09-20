@@ -4,7 +4,7 @@
 
 A Matrix client for Vim addicts
 
-![iamb](https://repo.x-cmd.io/iamb.svg?lang=zh)
+[![x-cmd/install — iamb Code Quality Monitoring Repo Card](https://repo.x-cmd.io/iamb.svg?lang=zh)](https://x-cmd.com/install/iamb)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install iamb
 
 ## 代码洞察
 
-合计: **20,052** 行代码（覆盖前 5 种语言、共 **35** 个文件）。
+合计: **20,391** 行代码（覆盖前 5 种语言、共 **35** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 19,624 | 507 | 3,322 | 29 |
-| Toml | 199 | 10 | 32 | 3 |
+| Rust | 19,948 | 550 | 3,389 | 29 |
+| Toml | 209 | 10 | 33 | 3 |
 | Svg | 126 | 1 | 1 | 1 |
 | Nix | 60 | 68 | 12 | 1 |
-| Xml | 43 | 0 | 10 | 1 |
+| Xml | 48 | 0 | 11 | 1 |
 
 ## 源代码
 
@@ -32,42 +32,42 @@ x install iamb
 
 ## 发布
 
-- **最新版本**: `v0.0.11` (2026-01-20)
-- **最近提交**: 2026-09-18
+- **最新版本**: `v0.0.12` (2026-09-20)
+- **最近提交**: 2026-09-20
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 1,284 · **Fork**: 111 · **开放 issue**: 378 · **贡献者**: 70
+- **Star**: 1,287 · **Fork**: 112 · **开放 issue**: 378 · **贡献者**: 71
 
 ## 累计统计
 
-- **发布数**: 5 · **已合并 PR**: 286 · **开放 PR**: 14 · **已关闭 issue**: 273 · **开放 issue**: 105 · **提交数**: 368
+- **发布数**: 6 · **已合并 PR**: 295 · **开放 PR**: 13 · **已关闭 issue**: 277 · **开放 issue**: 101 · **提交数**: 377
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 47 | 8 | 3 | 8 | 55 |
-| last60d | 2026-07-20 | 0 | 61 | 8 | 4 | 9 | 97 |
-| 90d | 2026-06-20 | 0 | 62 | 8 | 4 | 10 | 97 |
-| last180d | 2026-03-22 | 0 | 76 | 8 | 10 | 17 | 102 |
-| 360d | 2025-09-23 | 1 | 100 | 10 | 33 | 34 | 119 |
-| last720d | 2024-09-28 | 1 | 169 | 14 | 86 | 60 | 176 |
+| 30d | 2026-08-21 | 1 | 56 | 7 | 4 | 6 | 60 |
+| last60d | 2026-07-22 | 1 | 70 | 7 | 5 | 8 | 86 |
+| 90d | 2026-06-22 | 1 | 71 | 7 | 6 | 8 | 106 |
+| last180d | 2026-03-24 | 1 | 84 | 7 | 11 | 15 | 111 |
+| 360d | 2025-09-25 | 2 | 108 | 9 | 36 | 31 | 128 |
+| last720d | 2024-09-30 | 2 | 177 | 13 | 88 | 56 | 185 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [iamb-aarch64-apple-darwin.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-apple-darwin.tgz) | 24.2 MiB | `native/darwin/arm64` |
-| [iamb-aarch64-unknown-linux-gnu.deb](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.deb) | 16.3 MiB | `native/linux/arm64/glibc` |
-| [iamb-aarch64-unknown-linux-gnu.rpm](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.rpm) | 18.9 MiB | `native/linux/arm64/glibc` |
-| [iamb-aarch64-unknown-linux-gnu.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-aarch64-unknown-linux-gnu.tgz) | 27.2 MiB | `native/linux/arm64/glibc` |
-| [iamb-x86_64-apple-darwin.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-apple-darwin.tgz) | 25.4 MiB | `native/darwin/x64` |
-| [iamb-x86_64-pc-windows-msvc.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-pc-windows-msvc.zip) | 23.1 MiB | `native/win/x64` |
-| [iamb-x86_64-unknown-linux-musl.deb](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.deb) | 18.3 MiB | `native/linux/x64/musl` |
-| [iamb-x86_64-unknown-linux-musl.rpm](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.rpm) | 19.6 MiB | `native/linux/x64/musl` |
-| [iamb-x86_64-unknown-linux-musl.tgz](https://github.com/ulyssa/iamb/releases/download/v0.0.11/iamb-x86_64-unknown-linux-musl.tgz) | 28.3 MiB | `native/linux/x64/musl` |
+| [iamb-aarch64-apple-darwin-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-apple-darwin-binary.zip) | 28.9 MiB | `native/darwin/arm64` |
+| [iamb-aarch64-unknown-linux-gnu-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-unknown-linux-gnu-binary.zip) | 34.0 MiB | `native/linux/arm64/glibc` |
+| [iamb-aarch64-unknown-linux-gnu-deb.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-unknown-linux-gnu-deb.zip) | 19.1 MiB | `native/linux/arm64/glibc` |
+| [iamb-aarch64-unknown-linux-gnu-rpm.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-unknown-linux-gnu-rpm.zip) | 21.6 MiB | `native/linux/arm64/glibc` |
+| [iamb-x86_64-apple-darwin-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-apple-darwin-binary.zip) | 30.1 MiB | `native/darwin/x64` |
+| [iamb-x86_64-pc-windows-msvc-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-pc-windows-msvc-binary.zip) | 28.4 MiB | `native/win/x64` |
+| [iamb-x86_64-unknown-linux-musl-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-binary.zip) | 34.9 MiB | `native/linux/x64/musl` |
+| [iamb-x86_64-unknown-linux-musl-deb.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-deb.zip) | 20.9 MiB | `native/linux/x64/musl` |
+| [iamb-x86_64-unknown-linux-musl-rpm.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-rpm.zip) | 22.5 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -78,4 +78,4 @@ iamb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:32:41Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:44:55Z._
