@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 36548952,
       "digest": "sha256:6191123377e621e4a8b7ea5350a14b30034bdfbba344ab24775569ca7b65ee69",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-20T03:17:14Z",
       "updated_at": "2026-09-20T03:17:15Z",
       "browser_download_url": "https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-binary.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21964008,
       "digest": "sha256:80c5f39035fd9e95f9855834ff3d644b46f62c7c70aa478b8f361e4a0fd93464",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-09-20T03:17:15Z",
       "updated_at": "2026-09-20T03:17:16Z",
       "browser_download_url": "https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-deb.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 23621908,
       "digest": "sha256:9e10abb69954ff62a98fa26fb9931a00a639affa27afa0b4495ad09bac2fcf2a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-20T03:17:16Z",
       "updated_at": "2026-09-20T03:17:17Z",
       "browser_download_url": "https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-rpm.zip"
