@@ -14,12 +14,12 @@ x install iamb
 
 ## Code insight
 
-Total: **22,459** lines of code across **36** files in the top 5 languages.
+Total: **22,633** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 22,014 | 568 | 3,751 | 30 |
-| Toml | 211 | 12 | 34 | 3 |
+| Rust | 22,186 | 572 | 3,779 | 29 |
+| Toml | 213 | 12 | 34 | 3 |
 | Svg | 126 | 1 | 1 | 1 |
 | Nix | 60 | 68 | 12 | 1 |
 | Xml | 48 | 0 | 11 | 1 |
@@ -38,22 +38,22 @@ Total: **22,459** lines of code across **36** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,292 · **Forks**: 113 · **Open issues**: 383 · **Contributors**: 71
+- **Stars**: 1,293 · **Forks**: 113 · **Open issues**: 383 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 316 · **Open PRs**: 11 · **Closed issues**: 281 · **Open issues**: 102 · **Commits**: 398
+- **Releases**: 6 · **Merged PRs**: 318 · **Open PRs**: 9 · **Closed issues**: 283 · **Open issues**: 100 · **Commits**: 400
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 69 | 6 | 5 | 9 | 81 |
-| last60d | 2026-07-27 | 1 | 88 | 6 | 7 | 11 | 107 |
-| 90d | 2026-06-27 | 1 | 91 | 6 | 8 | 11 | 127 |
-| last180d | 2026-03-29 | 1 | 101 | 6 | 13 | 17 | 132 |
-| 360d | 2025-09-30 | 2 | 128 | 8 | 40 | 32 | 149 |
-| last720d | 2024-10-05 | 2 | 198 | 11 | 91 | 57 | 206 |
+| 30d | 2026-08-27 | 1 | 71 | 4 | 6 | 8 | 83 |
+| last60d | 2026-07-28 | 1 | 90 | 4 | 8 | 10 | 109 |
+| 90d | 2026-06-28 | 1 | 93 | 4 | 9 | 10 | 129 |
+| last180d | 2026-03-30 | 1 | 103 | 4 | 15 | 15 | 134 |
+| 360d | 2025-10-01 | 2 | 128 | 6 | 42 | 30 | 151 |
+| last720d | 2024-10-06 | 2 | 200 | 9 | 93 | 55 | 208 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:44:25Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:46:28Z._
