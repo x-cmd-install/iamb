@@ -14,12 +14,12 @@ x install iamb
 
 ## Code insight
 
-Total: **25,993** lines of code across **76** files in the top 5 languages.
+Total: **26,590** lines of code across **76** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 24,005 | 593 | 3,986 | 30 |
-| Toml | 1,754 | 1,104 | 347 | 43 |
+| Rust | 24,174 | 599 | 4,007 | 30 |
+| Toml | 2,182 | 1,132 | 362 | 43 |
 | Svg | 126 | 1 | 1 | 1 |
 | Nix | 60 | 68 | 12 | 1 |
 | Xml | 48 | 0 | 11 | 1 |
@@ -33,27 +33,27 @@ Total: **25,993** lines of code across **76** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.12` (2026-09-20)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-10
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,301 · **Forks**: 119 · **Open issues**: 394 · **Contributors**: 74
+- **Stars**: 1,302 · **Forks**: 119 · **Open issues**: 395 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 349 · **Open PRs**: 16 · **Closed issues**: 290 · **Open issues**: 104 · **Commits**: 432
+- **Releases**: 6 · **Merged PRs**: 352 · **Open PRs**: 15 · **Closed issues**: 291 · **Open issues**: 104 · **Commits**: 435
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 79 | 10 | 9 | 14 | 93 |
-| last60d | 2026-08-10 | 1 | 119 | 11 | 11 | 17 | 135 |
-| 90d | 2026-07-11 | 1 | 124 | 11 | 13 | 17 | 161 |
-| last180d | 2026-04-12 | 1 | 132 | 11 | 18 | 22 | 165 |
-| 360d | 2025-10-14 | 2 | 155 | 13 | 39 | 34 | 183 |
-| last720d | 2024-10-19 | 2 | 230 | 16 | 94 | 60 | 240 |
+| 30d | 2026-09-10 | 1 | 82 | 9 | 9 | 14 | 96 |
+| last60d | 2026-08-11 | 1 | 122 | 10 | 12 | 17 | 138 |
+| 90d | 2026-07-12 | 1 | 127 | 10 | 14 | 17 | 164 |
+| last180d | 2026-04-13 | 1 | 135 | 10 | 19 | 22 | 168 |
+| 360d | 2025-10-15 | 2 | 157 | 12 | 40 | 34 | 186 |
+| last720d | 2024-10-20 | 2 | 233 | 15 | 95 | 60 | 243 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:56:13Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:37:59Z._
