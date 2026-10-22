@@ -14,15 +14,15 @@ x install iamb
 
 ## Code insight
 
-Total: **28,641** lines of code across **97** files in the top 5 languages.
+Total: **28,787** lines of code across **100** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 25,202 | 642 | 4,158 | 31 |
-| Toml | 3,205 | 1,722 | 522 | 63 |
+| Rust | 25,203 | 642 | 4,157 | 31 |
+| Toml | 3,348 | 1,810 | 547 | 66 |
 | Svg | 126 | 1 | 1 | 1 |
 | Nix | 60 | 68 | 12 | 1 |
-| Xml | 48 | 0 | 11 | 1 |
+| Xml | 50 | 0 | 11 | 1 |
 
 ## Source
 
@@ -32,42 +32,42 @@ Total: **28,641** lines of code across **97** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.0.12` (2026-09-20)
-- **Last commit**: 2026-10-20
+- **Latest**: `v0.13.1` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 1,310 · **Forks**: 122 · **Open issues**: 398 · **Contributors**: 76
+- **Stars**: 1,311 · **Forks**: 122 · **Open issues**: 399 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 369 · **Open PRs**: 16 · **Closed issues**: 297 · **Open issues**: 101 · **Commits**: 452
+- **Releases**: 8 · **Merged PRs**: 377 · **Open PRs**: 13 · **Closed issues**: 299 · **Open issues**: 100 · **Commits**: 460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 62 | 9 | 6 | 14 | 54 |
-| last60d | 2026-08-22 | 1 | 127 | 12 | 12 | 17 | 135 |
-| 90d | 2026-07-23 | 1 | 143 | 12 | 14 | 19 | 162 |
-| last180d | 2026-04-24 | 1 | 150 | 12 | 20 | 21 | 181 |
-| 360d | 2025-10-26 | 2 | 171 | 13 | 40 | 35 | 187 |
-| last720d | 2024-10-31 | 2 | 250 | 16 | 98 | 58 | 260 |
+| 30d | 2026-09-22 | 2 | 66 | 6 | 7 | 9 | 62 |
+| last60d | 2026-08-23 | 3 | 135 | 9 | 14 | 16 | 143 |
+| 90d | 2026-07-24 | 3 | 150 | 9 | 16 | 18 | 170 |
+| last180d | 2026-04-25 | 3 | 158 | 9 | 22 | 20 | 189 |
+| 360d | 2025-10-27 | 4 | 179 | 10 | 42 | 34 | 195 |
+| last720d | 2024-11-01 | 4 | 258 | 13 | 100 | 57 | 268 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [iamb-aarch64-apple-darwin-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-apple-darwin-binary.zip) | 28.9 MiB | `native/darwin/arm64` |
-| [iamb-aarch64-unknown-linux-gnu-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-unknown-linux-gnu-binary.zip) | 34.0 MiB | `native/linux/arm64/glibc` |
-| [iamb-aarch64-unknown-linux-gnu-deb.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-unknown-linux-gnu-deb.zip) | 19.1 MiB | `native/linux/arm64/glibc` |
-| [iamb-aarch64-unknown-linux-gnu-rpm.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-aarch64-unknown-linux-gnu-rpm.zip) | 21.6 MiB | `native/linux/arm64/glibc` |
-| [iamb-x86_64-apple-darwin-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-apple-darwin-binary.zip) | 30.1 MiB | `native/darwin/x64` |
-| [iamb-x86_64-pc-windows-msvc-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-pc-windows-msvc-binary.zip) | 28.4 MiB | `native/win/x64` |
-| [iamb-x86_64-unknown-linux-musl-binary.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-binary.zip) | 34.9 MiB | `native/linux/x64/musl` |
-| [iamb-x86_64-unknown-linux-musl-deb.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-deb.zip) | 20.9 MiB | `native/linux/x64/musl` |
-| [iamb-x86_64-unknown-linux-musl-rpm.zip](https://github.com/ulyssa/iamb/releases/download/v0.0.12/iamb-x86_64-unknown-linux-musl-rpm.zip) | 22.5 MiB | `native/linux/x64/musl` |
+| [iamb-0.13.1-1.aarch64.rpm](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb-0.13.1-1.aarch64.rpm) | 20.0 MiB | `runtime/rpm/aarch64` |
+| [iamb-0.13.1-1.x86_64.rpm](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb-0.13.1-1.x86_64.rpm) | 21.5 MiB | `runtime/rpm/x86_64` |
+| [iamb-0.13.1-aarch64-apple-darwin.tar.gz](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb-0.13.1-aarch64-apple-darwin.tar.gz) | 27.0 MiB | `native/darwin/arm64` |
+| [iamb-0.13.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb-0.13.1-aarch64-unknown-linux-gnu.tar.gz) | 29.1 MiB | `native/linux/arm64/glibc` |
+| [iamb-0.13.1-x86_64-apple-darwin.tar.gz](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb-0.13.1-x86_64-apple-darwin.tar.gz) | 28.7 MiB | `native/darwin/x64` |
+| [iamb-0.13.1-x86_64-pc-windows-msvc.tar.gz](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb-0.13.1-x86_64-pc-windows-msvc.tar.gz) | 29.5 MiB | `native/win/x64` |
+| [iamb-0.13.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb-0.13.1-x86_64-unknown-linux-musl.tar.gz) | 30.8 MiB | `native/linux/x64/musl` |
+| [iamb_0.13.1-1_amd64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_amd64.deb) | 20.0 MiB | `runtime/deb/amd64` |
+| [iamb_0.13.1-1_arm64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_arm64.deb) | 17.4 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -78,4 +78,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:30:01Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:28:21Z._
