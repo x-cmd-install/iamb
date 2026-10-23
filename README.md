@@ -38,22 +38,22 @@ Total: **28,787** lines of code across **100** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,311 · **Forks**: 122 · **Open issues**: 399 · **Contributors**: 76
+- **Stars**: 1,311 · **Forks**: 122 · **Open issues**: 400 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 377 · **Open PRs**: 13 · **Closed issues**: 299 · **Open issues**: 100 · **Commits**: 460
+- **Releases**: 8 · **Merged PRs**: 377 · **Open PRs**: 13 · **Closed issues**: 300 · **Open issues**: 100 · **Commits**: 460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 66 | 6 | 7 | 9 | 62 |
-| last60d | 2026-08-23 | 3 | 135 | 9 | 14 | 16 | 143 |
-| 90d | 2026-07-24 | 3 | 150 | 9 | 16 | 18 | 170 |
-| last180d | 2026-04-25 | 3 | 158 | 9 | 22 | 20 | 189 |
-| 360d | 2025-10-27 | 4 | 179 | 10 | 42 | 34 | 195 |
-| last720d | 2024-11-01 | 4 | 258 | 13 | 100 | 57 | 268 |
+| 30d | 2026-09-23 | 2 | 64 | 6 | 8 | 9 | 62 |
+| last60d | 2026-08-24 | 3 | 135 | 9 | 15 | 16 | 143 |
+| 90d | 2026-07-25 | 3 | 150 | 9 | 17 | 18 | 170 |
+| last180d | 2026-04-26 | 3 | 158 | 9 | 23 | 20 | 189 |
+| 360d | 2025-10-28 | 4 | 179 | 10 | 42 | 34 | 195 |
+| last720d | 2024-11-02 | 4 | 258 | 13 | 101 | 57 | 268 |
 
 ## Release assets
 
@@ -69,6 +69,18 @@ Total: **28,787** lines of code across **100** files in the top 5 languages.
 | [iamb_0.13.1-1_amd64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_amd64.deb) | 20.0 MiB | `runtime/deb/amd64` |
 | [iamb_0.13.1-1_arm64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_arm64.deb) | 17.4 MiB | `runtime/deb/arm64` |
 
+## Distribution status
+
+Reported by **41** distros on [repology.org](https://repology.org/project/iamb). **2** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.13.1` | ✅ latest |
+| Nix unstable | `0.0.12` | ⚠️ outdated |
+| Void | `0.0.12` | ⚠️ outdated |
+| Alpine edge | `0.0.12` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.0.10` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `iamb` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +90,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:28:21Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:33:19Z._

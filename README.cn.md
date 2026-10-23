@@ -38,22 +38,22 @@ x install iamb
 
 ## 流行度
 
-- **Star**: 1,311 · **Fork**: 122 · **开放 issue**: 399 · **贡献者**: 76
+- **Star**: 1,311 · **Fork**: 122 · **开放 issue**: 400 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 377 · **开放 PR**: 13 · **已关闭 issue**: 299 · **开放 issue**: 100 · **提交数**: 460
+- **发布数**: 8 · **已合并 PR**: 377 · **开放 PR**: 13 · **已关闭 issue**: 300 · **开放 issue**: 100 · **提交数**: 460
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 66 | 6 | 7 | 9 | 62 |
-| last60d | 2026-08-23 | 3 | 135 | 9 | 14 | 16 | 143 |
-| 90d | 2026-07-24 | 3 | 150 | 9 | 16 | 18 | 170 |
-| last180d | 2026-04-25 | 3 | 158 | 9 | 22 | 20 | 189 |
-| 360d | 2025-10-27 | 4 | 179 | 10 | 42 | 34 | 195 |
-| last720d | 2024-11-01 | 4 | 258 | 13 | 100 | 57 | 268 |
+| 30d | 2026-09-23 | 2 | 64 | 6 | 8 | 9 | 62 |
+| last60d | 2026-08-24 | 3 | 135 | 9 | 15 | 16 | 143 |
+| 90d | 2026-07-25 | 3 | 150 | 9 | 17 | 18 | 170 |
+| last180d | 2026-04-26 | 3 | 158 | 9 | 23 | 20 | 189 |
+| 360d | 2025-10-28 | 4 | 179 | 10 | 42 | 34 | 195 |
+| last720d | 2024-11-02 | 4 | 258 | 13 | 101 | 57 | 268 |
 
 ## Release 资产
 
@@ -69,6 +69,18 @@ x install iamb
 | [iamb_0.13.1-1_amd64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_amd64.deb) | 20.0 MiB | `runtime/deb/amd64` |
 | [iamb_0.13.1-1_arm64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_arm64.deb) | 17.4 MiB | `runtime/deb/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/iamb) 上共有 **41** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**32** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.13.1` | ✅ latest |
+| Nix unstable | `0.0.12` | ⚠️ outdated |
+| Void | `0.0.12` | ⚠️ outdated |
+| Alpine edge | `0.0.12` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.0.10` | ⚠️ outdated |
+
 ## 改进这些数据
 
 iamb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `iamb` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -78,4 +90,4 @@ iamb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:28:22Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:33:20Z._
