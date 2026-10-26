@@ -1,155 +1,196 @@
-- repo: alpine_3_19
-  subrepo: community
+- repo: homebrew
   srcname: iamb
-  binname: iamb
   visiblename: iamb
-  version: 0.0.8
-  origversion: 0.0.8-r1
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings
+  version: 0.13.1
+  origversion: null
+  status: newest
+  summary: Matrix client for Vim addicts
+- repo: gentoo_ovl_guru
+  srcname: net-im/iamb
+  visiblename: net-im/iamb
+  version: 0.0.10
+  origversion: null
+  status: legacy
+  summary: A Matrix chat client that uses Vim keybindings
   maintainers:
-    - cielesti@protonmail.com
+    - freijon@kagimail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: iamb
-  binname: iamb-doc
-  visiblename: iamb-doc
-  version: 0.0.8
-  origversion: 0.0.8-r1
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: iamb
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - net-im
+- repo: pkgsrc_2026_2
+  srcname: chat/iamb
   binname: iamb
-  visiblename: iamb
-  version: 0.0.9
-  origversion: 0.0.9-r0
+  visiblename: chat/iamb
+  version: 0.0.11
+  origversion: null
   status: outdated
-  summary: Rust Matrix chat client with Vim keybindings
+  summary: Matrix client for Vim addicts
   maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: iamb
-  binname: iamb-doc
-  visiblename: iamb-doc
-  version: 0.0.9
-  origversion: 0.0.9-r0
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: iamb
-  binname: iamb
-  visiblename: iamb
-  version: 0.0.10
-  origversion: 0.0.10-r0
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: iamb
-  binname: iamb-doc
-  visiblename: iamb-doc
-  version: 0.0.10
-  origversion: 0.0.10-r0
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: iamb
-  binname: iamb
-  visiblename: iamb
-  version: 0.0.10
-  origversion: 0.0.10-r0
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: iamb
-  binname: iamb-doc
-  visiblename: iamb-doc
-  version: 0.0.10
-  origversion: 0.0.10-r0
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: iamb
-  binname: iamb
-  visiblename: iamb
-  version: 0.0.10
-  origversion: 0.0.10-r0
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: iamb
-  binname: iamb-doc
-  visiblename: iamb-doc
-  version: 0.0.10
-  origversion: 0.0.10-r0
-  status: outdated
-  summary: Rust Matrix chat client with Vim keybindings (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
+    - pkgsrc-users@netbsd.org
+  categories:
+    - chat
 - repo: alpine_3_24
   subrepo: community
   srcname: iamb
-  binname: iamb
-  visiblename: iamb
+  binname: iamb-doc
+  visiblename: iamb-doc
   version: 0.0.11
   origversion: 0.0.11-r1
   status: outdated
-  summary: Rust Matrix chat client with Vim keybindings
+  summary: Rust Matrix chat client with Vim keybindings (documentation)
   maintainers:
     - huajingyun@loongson.cn
   licenses:
     - Apache-2.0
-- repo: alpine_3_24
+- repo: alpine_3_19
+  subrepo: community
+  srcname: iamb
+  binname: iamb
+  visiblename: iamb
+  version: 0.0.8
+  origversion: 0.0.8-r1
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
   subrepo: community
   srcname: iamb
   binname: iamb-doc
   visiblename: iamb-doc
+  version: 0.0.8
+  origversion: 0.0.8-r1
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: iamb
+  binname: iamb
+  visiblename: iamb
+  version: 0.0.9
+  origversion: 0.0.9-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: iamb
+  binname: iamb-doc
+  visiblename: iamb-doc
+  version: 0.0.9
+  origversion: 0.0.9-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: iamb
+  binname: iamb
+  visiblename: iamb
+  version: 0.0.10
+  origversion: 0.0.10-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: iamb
+  binname: iamb-doc
+  visiblename: iamb-doc
+  version: 0.0.10
+  origversion: 0.0.10-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: iamb
+  binname: iamb
+  visiblename: iamb
+  version: 0.0.10
+  origversion: 0.0.10-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: iamb
+  binname: iamb-doc
+  visiblename: iamb-doc
+  version: 0.0.10
+  origversion: 0.0.10-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: iamb
+  binname: iamb
+  visiblename: iamb
+  version: 0.0.10
+  origversion: 0.0.10-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: iamb
+  binname: iamb-doc
+  visiblename: iamb-doc
+  version: 0.0.10
+  origversion: 0.0.10-r0
+  status: outdated
+  summary: Rust Matrix chat client with Vim keybindings (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: iamb
+  binname: iamb
+  visiblename: iamb
   version: 0.0.11
   origversion: 0.0.11-r1
   status: outdated
-  summary: Rust Matrix chat client with Vim keybindings (documentation)
+  summary: Rust Matrix chat client with Vim keybindings
   maintainers:
     - huajingyun@loongson.cn
   licenses:
@@ -233,7 +274,7 @@
   visiblename: net-im/iamb
   version: 0.0.11
   origversion: null
-  status: outdated
+  status: legacy
   summary: A Matrix chat client that uses Vim keybindings
   maintainers:
     - freijon@kagimail.com
@@ -255,30 +296,9 @@
 - repo: gentoo_ovl_guru
   srcname: net-im/iamb
   visiblename: net-im/iamb
-  version: 0.0.8
+  version: 0.13.1
   origversion: null
-  status: legacy
-  summary: A Matrix chat client that uses Vim keybindings
-  maintainers:
-    - freijon@kagimail.com
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - Boost-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - ZLIB
-  categories:
-    - net-im
-- repo: gentoo_ovl_guru
-  srcname: net-im/iamb
-  visiblename: net-im/iamb
-  version: 0.0.10
-  origversion: null
-  status: legacy
+  status: newest
   summary: A Matrix chat client that uses Vim keybindings
   maintainers:
     - freijon@kagimail.com
@@ -288,20 +308,15 @@
     - BSD
     - Boost-1.0
     - CC0-1.0
+    - CDLA-Permissive-2.0
     - ISC
     - MIT
     - MPL-2.0
-    - Unicode-DFS-2016
+    - UoI-NCSA
+    - Unicode-3.0
     - ZLIB
   categories:
     - net-im
-- repo: homebrew
-  srcname: iamb
-  visiblename: iamb
-  version: 0.13.1
-  origversion: null
-  status: newest
-  summary: Matrix client for Vim addicts
 - repo: liguros_stable
   srcname: net-im/iamb
   visiblename: net-im/iamb
@@ -392,9 +407,9 @@
 - repo: liguros_develop
   srcname: net-im/iamb
   visiblename: net-im/iamb
-  version: 0.0.8
+  version: 0.13.1
   origversion: null
-  status: legacy
+  status: newest
   summary: A Matrix chat client that uses Vim keybindings
   maintainers:
     - freijon@kagimail.com
@@ -403,10 +418,13 @@
     - BSD-2
     - BSD
     - Boost-1.0
+    - CC0-1.0
+    - CDLA-Permissive-2.0
     - ISC
     - MIT
     - MPL-2.0
-    - Unicode-DFS-2016
+    - UoI-NCSA
+    - Unicode-3.0
     - ZLIB
   categories:
     - net-im
@@ -415,7 +433,7 @@
   visiblename: net-im/iamb
   version: 0.0.11
   origversion: null
-  status: outdated
+  status: legacy
   summary: A Matrix chat client that uses Vim keybindings
   maintainers:
     - freijon@kagimail.com
@@ -528,18 +546,6 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: pkgsrc_2026_2
-  srcname: chat/iamb
-  binname: iamb
-  visiblename: chat/iamb
-  version: 0.0.11
-  origversion: null
-  status: outdated
-  summary: Matrix client for Vim addicts
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - chat
 - repo: pkgsrc_2026_3
   srcname: chat/iamb
   binname: iamb
