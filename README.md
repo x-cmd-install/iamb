@@ -42,18 +42,18 @@ Total: **28,956** lines of code across **100** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 381 · **Open PRs**: 13 · **Closed issues**: 302 · **Open issues**: 100 · **Commits**: 464
+- **Releases**: 8 · **Merged PRs**: 381 · **Open PRs**: 15 · **Closed issues**: 302 · **Open issues**: 100 · **Commits**: 464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 62 | 6 | 8 | 11 | 51 |
-| last60d | 2026-08-26 | 3 | 134 | 9 | 15 | 18 | 137 |
-| 90d | 2026-07-27 | 3 | 153 | 9 | 17 | 20 | 168 |
-| last180d | 2026-04-28 | 3 | 162 | 9 | 23 | 22 | 193 |
-| 360d | 2025-10-30 | 4 | 183 | 10 | 44 | 32 | 199 |
-| last720d | 2024-11-04 | 4 | 262 | 13 | 103 | 57 | 272 |
+| 30d | 2026-09-26 | 2 | 57 | 7 | 7 | 11 | 51 |
+| last60d | 2026-08-27 | 3 | 134 | 11 | 15 | 18 | 137 |
+| 90d | 2026-07-28 | 3 | 153 | 11 | 17 | 20 | 168 |
+| last180d | 2026-04-29 | 3 | 162 | 11 | 22 | 22 | 193 |
+| 360d | 2025-10-31 | 4 | 183 | 12 | 44 | 32 | 199 |
+| last720d | 2024-11-05 | 4 | 262 | 15 | 103 | 57 | 272 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **28,956** lines of code across **100** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/iamb). **5** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/iamb). **7** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:27:48Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:30:22Z._
