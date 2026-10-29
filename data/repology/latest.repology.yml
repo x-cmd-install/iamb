@@ -498,9 +498,9 @@
 - repo: nix_unstable
   srcname: iamb
   visiblename: iamb
-  version: 0.0.12
+  version: 0.13.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Matrix client for Vim addicts
   maintainers:
     - mail@meain.io
