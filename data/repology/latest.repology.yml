@@ -1,3 +1,25 @@
+- repo: gentoo_ovl_guru
+  srcname: net-im/iamb
+  visiblename: net-im/iamb
+  version: 0.0.10
+  origversion: null
+  status: legacy
+  summary: A Matrix chat client that uses Vim keybindings
+  maintainers:
+    - freijon@kagimail.com
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - net-im
 - repo: alpine_3_19
   subrepo: community
   srcname: iamb
@@ -276,28 +298,6 @@
     - ZLIB
   categories:
     - net-im
-- repo: gentoo_ovl_guru
-  srcname: net-im/iamb
-  visiblename: net-im/iamb
-  version: 0.0.10
-  origversion: null
-  status: legacy
-  summary: A Matrix chat client that uses Vim keybindings
-  maintainers:
-    - freijon@kagimail.com
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - Boost-1.0
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - ZLIB
-  categories:
-    - net-im
 - repo: homebrew
   srcname: iamb
   visiblename: iamb
@@ -510,9 +510,9 @@
   srcname: net/iamb
   binname: iamb
   visiblename: net/iamb
-  version: 0.0.12
-  origversion: 0.0.12p0
-  status: outdated
+  version: 0.13.1
+  origversion: null
+  status: newest
   summary: matrix client for vim addicts
   maintainers:
     - ports@openbsd.org
