@@ -48,12 +48,12 @@ Total: **29,292** lines of code across **100** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 47 | 6 | 7 | 8 | 44 |
-| last60d | 2026-09-05 | 3 | 123 | 10 | 19 | 17 | 135 |
-| 90d | 2026-08-06 | 3 | 162 | 11 | 22 | 19 | 178 |
-| last180d | 2026-05-08 | 3 | 170 | 11 | 27 | 21 | 203 |
-| 360d | 2025-11-09 | 4 | 193 | 12 | 49 | 31 | 209 |
-| last720d | 2024-11-14 | 4 | 272 | 15 | 104 | 56 | 282 |
+| 30d | 2026-10-06 | 2 | 45 | 6 | 6 | 8 | 44 |
+| last60d | 2026-09-06 | 3 | 122 | 10 | 18 | 17 | 135 |
+| 90d | 2026-08-07 | 3 | 162 | 11 | 22 | 19 | 178 |
+| last180d | 2026-05-09 | 3 | 170 | 11 | 27 | 21 | 203 |
+| 360d | 2025-11-10 | 4 | 193 | 12 | 49 | 31 | 209 |
+| last720d | 2024-11-15 | 4 | 272 | 15 | 104 | 56 | 282 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:03:21Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:27:05Z._
