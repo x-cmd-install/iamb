@@ -50,18 +50,6 @@
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: iamb-bin
-  binname: iamb-bin
-  visiblename: iamb-bin
-  version: 0.13.1
-  origversion: 0.13.1-2
-  status: newest
-  summary: A Matrix client for Vim addicts
-  maintainers:
-    - loacker@aur
-  licenses:
-    - Apache-2.0
 - repo: alpine_3_21
   subrepo: community
   srcname: iamb
@@ -205,6 +193,18 @@
   licenses:
     - Apache-2.0
 - repo: aur
+  srcname: iamb-bin
+  binname: iamb-bin
+  visiblename: iamb-bin
+  version: 0.13.1
+  origversion: 0.13.1-2
+  status: newest
+  summary: A Matrix client for Vim addicts
+  maintainers:
+    - loacker@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
   srcname: iamb-git
   binname: iamb-git
   visiblename: iamb-git
@@ -220,9 +220,9 @@
   srcname: net-im/iamb
   binname: iamb
   visiblename: net-im/iamb
-  version: 0.0.12
-  origversion: 0.0.12_1
-  status: outdated
+  version: 0.13.1
+  origversion: null
+  status: newest
   summary: Matrix client for Vim addicts
   maintainers:
     - ashish@freebsd.org
