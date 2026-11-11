@@ -38,7 +38,7 @@ Total: **29,292** lines of code across **100** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,324 · **Forks**: 125 · **Open issues**: 408 · **Contributors**: 78
+- **Stars**: 1,326 · **Forks**: 125 · **Open issues**: 408 · **Contributors**: 78
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **29,292** lines of code across **100** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 32 | 4 | 5 | 6 | 29 |
-| last60d | 2026-09-11 | 3 | 120 | 10 | 18 | 18 | 115 |
-| 90d | 2026-08-12 | 3 | 161 | 11 | 22 | 20 | 164 |
-| last180d | 2026-05-14 | 3 | 170 | 11 | 28 | 22 | 203 |
-| 360d | 2025-11-15 | 4 | 193 | 12 | 50 | 32 | 209 |
-| last720d | 2024-11-20 | 4 | 272 | 15 | 105 | 57 | 282 |
+| 30d | 2026-10-12 | 2 | 29 | 4 | 5 | 6 | 29 |
+| last60d | 2026-09-12 | 3 | 115 | 10 | 17 | 18 | 115 |
+| 90d | 2026-08-13 | 3 | 161 | 11 | 22 | 20 | 164 |
+| last180d | 2026-05-15 | 3 | 170 | 11 | 28 | 22 | 203 |
+| 360d | 2025-11-16 | 4 | 193 | 12 | 50 | 32 | 209 |
+| last720d | 2024-11-21 | 4 | 272 | 15 | 105 | 57 | 282 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **29,292** lines of code across **100** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/iamb). **12** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/iamb). **13** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:03:39Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:56:01Z._
