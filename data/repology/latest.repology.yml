@@ -1,3 +1,14 @@
+- repo: nix_stable_24_11
+  srcname: iamb
+  visiblename: iamb
+  version: 0.0.10
+  origversion: null
+  status: outdated
+  summary: Matrix client for Vim addicts
+  maintainers:
+    - mail@meain.io
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_19
   subrepo: community
   srcname: iamb
@@ -22,6 +33,17 @@
   summary: Rust Matrix chat client with Vim keybindings (documentation)
   maintainers:
     - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: iamb
+  visiblename: iamb
+  version: 0.0.9
+  origversion: null
+  status: outdated
+  summary: A Matrix client for Vim addicts
+  maintainers:
+    - mail@meain.io
   licenses:
     - Apache-2.0
 - repo: alpine_3_20
@@ -440,28 +462,6 @@
     - ZLIB
   categories:
     - net-im
-- repo: nix_stable_24_05
-  srcname: iamb
-  visiblename: iamb
-  version: 0.0.9
-  origversion: null
-  status: outdated
-  summary: A Matrix client for Vim addicts
-  maintainers:
-    - mail@meain.io
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: iamb
-  visiblename: iamb
-  version: 0.0.10
-  origversion: null
-  status: outdated
-  summary: Matrix client for Vim addicts
-  maintainers:
-    - mail@meain.io
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: iamb
   visiblename: iamb
