@@ -1,14 +1,90 @@
-- repo: nix_stable_24_11
-  srcname: iamb
-  visiblename: iamb
+- repo: liguros_develop
+  srcname: net-im/iamb
+  visiblename: net-im/iamb
+  version: 0.0.10
+  origversion: null
+  status: legacy
+  summary: A Matrix chat client that uses Vim keybindings
+  maintainers:
+    - freijon@kagimail.com
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - net-im
+- repo: liguros_stable
+  srcname: net-im/iamb
+  visiblename: net-im/iamb
+  version: 0.0.8
+  origversion: null
+  status: legacy
+  summary: A Matrix chat client that uses Vim keybindings
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - net-im
+- repo: liguros_stable
+  srcname: net-im/iamb
+  visiblename: net-im/iamb
   version: 0.0.10
   origversion: null
   status: outdated
-  summary: Matrix client for Vim addicts
+  summary: A Matrix chat client that uses Vim keybindings
   maintainers:
-    - mail@meain.io
+    - freijon@pm.me
   licenses:
     - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - net-im
+- repo: liguros_stable
+  srcname: net-im/iamb
+  visiblename: net-im/iamb
+  version: 0.0.9
+  origversion: null
+  status: legacy
+  summary: A Matrix chat client that uses Vim keybindings
+  maintainers:
+    - freijon@pm.me
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - ZLIB
+  categories:
+    - net-im
 - repo: alpine_3_19
   subrepo: community
   srcname: iamb
@@ -35,17 +111,6 @@
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: iamb
-  visiblename: iamb
-  version: 0.0.9
-  origversion: null
-  status: outdated
-  summary: A Matrix client for Vim addicts
-  maintainers:
-    - mail@meain.io
-  licenses:
-    - Apache-2.0
 - repo: alpine_3_20
   subrepo: community
   srcname: iamb
@@ -57,6 +122,17 @@
   summary: Rust Matrix chat client with Vim keybindings
   maintainers:
     - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: iamb
+  visiblename: iamb
+  version: 0.0.9
+  origversion: null
+  status: outdated
+  summary: A Matrix client for Vim addicts
+  maintainers:
+    - mail@meain.io
   licenses:
     - Apache-2.0
 - repo: alpine_3_20
@@ -327,93 +403,6 @@
   origversion: null
   status: newest
   summary: Matrix client for Vim addicts
-- repo: liguros_stable
-  srcname: net-im/iamb
-  visiblename: net-im/iamb
-  version: 0.0.8
-  origversion: null
-  status: legacy
-  summary: A Matrix chat client that uses Vim keybindings
-  maintainers:
-    - freijon@pm.me
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - Boost-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - ZLIB
-  categories:
-    - net-im
-- repo: liguros_stable
-  srcname: net-im/iamb
-  visiblename: net-im/iamb
-  version: 0.0.10
-  origversion: null
-  status: outdated
-  summary: A Matrix chat client that uses Vim keybindings
-  maintainers:
-    - freijon@pm.me
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - Boost-1.0
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - ZLIB
-  categories:
-    - net-im
-- repo: liguros_stable
-  srcname: net-im/iamb
-  visiblename: net-im/iamb
-  version: 0.0.9
-  origversion: null
-  status: legacy
-  summary: A Matrix chat client that uses Vim keybindings
-  maintainers:
-    - freijon@pm.me
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - Boost-1.0
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - ZLIB
-  categories:
-    - net-im
-- repo: liguros_develop
-  srcname: net-im/iamb
-  visiblename: net-im/iamb
-  version: 0.0.10
-  origversion: null
-  status: legacy
-  summary: A Matrix chat client that uses Vim keybindings
-  maintainers:
-    - freijon@kagimail.com
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - Boost-1.0
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - ZLIB
-  categories:
-    - net-im
 - repo: liguros_develop
   srcname: net-im/iamb
   visiblename: net-im/iamb
@@ -462,6 +451,17 @@
     - ZLIB
   categories:
     - net-im
+- repo: nix_stable_24_11
+  srcname: iamb
+  visiblename: iamb
+  version: 0.0.10
+  origversion: null
+  status: outdated
+  summary: Matrix client for Vim addicts
+  maintainers:
+    - mail@meain.io
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: iamb
   visiblename: iamb
