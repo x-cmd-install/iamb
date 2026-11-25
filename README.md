@@ -42,18 +42,18 @@ Total: **29,757** lines of code across **100** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 405 · **Open PRs**: 17 · **Closed issues**: 308 · **Open issues**: 102 · **Commits**: 488
+- **Releases**: 8 · **Merged PRs**: 405 · **Open PRs**: 18 · **Closed issues**: 308 · **Open issues**: 102 · **Commits**: 488
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 21 | 6 | 3 | 5 | 21 |
-| last60d | 2026-09-25 | 2 | 86 | 11 | 13 | 14 | 82 |
-| 90d | 2026-08-26 | 3 | 158 | 14 | 20 | 21 | 166 |
-| last180d | 2026-05-28 | 3 | 184 | 14 | 27 | 24 | 217 |
-| 360d | 2025-11-29 | 4 | 207 | 15 | 48 | 34 | 223 |
-| last720d | 2024-12-04 | 4 | 285 | 17 | 102 | 59 | 296 |
+| 30d | 2026-10-26 | 0 | 19 | 7 | 2 | 5 | 21 |
+| last60d | 2026-09-26 | 2 | 81 | 11 | 12 | 14 | 82 |
+| 90d | 2026-08-27 | 3 | 158 | 15 | 20 | 21 | 166 |
+| last180d | 2026-05-29 | 3 | 184 | 15 | 26 | 24 | 217 |
+| 360d | 2025-11-30 | 4 | 207 | 16 | 48 | 34 | 223 |
+| last720d | 2024-12-05 | 4 | 285 | 18 | 102 | 59 | 296 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for iamb lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:51:09Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:15:41Z._
