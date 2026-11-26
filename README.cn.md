@@ -38,7 +38,7 @@ x install iamb
 
 ## 流行度
 
-- **Star**: 1,336 · **Fork**: 128 · **开放 issue**: 410 · **贡献者**: 78
+- **Star**: 1,340 · **Fork**: 129 · **开放 issue**: 410 · **贡献者**: 78
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install iamb
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 19 | 7 | 2 | 5 | 21 |
-| last60d | 2026-09-26 | 2 | 81 | 11 | 12 | 14 | 82 |
-| 90d | 2026-08-27 | 3 | 158 | 15 | 20 | 21 | 166 |
-| last180d | 2026-05-29 | 3 | 184 | 15 | 26 | 24 | 217 |
-| 360d | 2025-11-30 | 4 | 207 | 16 | 48 | 34 | 223 |
-| last720d | 2024-12-05 | 4 | 285 | 18 | 102 | 59 | 296 |
+| 30d | 2026-10-27 | 0 | 19 | 7 | 2 | 5 | 21 |
+| last60d | 2026-09-27 | 2 | 79 | 11 | 12 | 14 | 82 |
+| 90d | 2026-08-28 | 3 | 158 | 15 | 20 | 21 | 166 |
+| last180d | 2026-05-30 | 3 | 184 | 15 | 26 | 24 | 217 |
+| 360d | 2025-12-01 | 4 | 207 | 16 | 48 | 34 | 223 |
+| last720d | 2024-12-06 | 4 | 285 | 18 | 102 | 59 | 296 |
 
 ## Release 资产
 
@@ -69,18 +69,6 @@ x install iamb
 | [iamb_0.13.1-1_amd64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_amd64.deb) | 20.0 MiB | `runtime/deb/amd64` |
 | [iamb_0.13.1-1_arm64.deb](https://github.com/ulyssa/iamb/releases/download/v0.13.1/iamb_0.13.1-1_arm64.deb) | 17.4 MiB | `runtime/deb/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/iamb) 上共有 **41** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.13.1` | ✅ latest |
-| Nix unstable | `0.13.1` | ✅ latest |
-| Void | `0.13.1` | ✅ latest |
-| Alpine edge | `0.13.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.0.10` | ⚠️ outdated |
-
 ## 改进这些数据
 
 iamb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `iamb` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -90,4 +78,4 @@ iamb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:15:42Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:01:16Z._
